@@ -6,6 +6,8 @@ color_scheme: light # "light" (default) and "dark"
 
 gh_edit_link: false
 
+logo: "/assets/images/just-the-docs.svg"
+
 search_enabled: false
 
 footer_content: Copyright &copy; 2022
