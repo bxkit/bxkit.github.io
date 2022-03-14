@@ -1,2 +1,2 @@
-# bxkit.github.io
-Bitrix Kit
+# Bitrix Kit
+bxkit.github.io
