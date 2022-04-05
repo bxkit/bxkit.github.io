@@ -15,7 +15,3 @@ has_toc: false
 
 - [**Главный модуль**](/bitrix/settings/main)
 - [**Управление структурой**](/bitrix/settings/fileman)
-
----
-
-<br>
