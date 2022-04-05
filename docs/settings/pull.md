@@ -5,7 +5,7 @@ parent: Основные настройки
 nav_order: 3
 ---
 
-# Email-маркетинг
+# Push and Pull
 
 <sub>Настройки → Настройки продукта → Настройки модулей → Push and Pull</sub>
 
