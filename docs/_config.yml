@@ -12,6 +12,10 @@ gh_edit_link: false
 
 search_enabled: true
 
+kramdown:
+  syntax_highlighter_opts:
+    block:
+      line_numbers: true
 
 # footer_content: Copyright &copy; 2022
 
