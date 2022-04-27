@@ -13,3 +13,6 @@ gh_edit_link: false
 search_enabled: false
 
 footer_content: Copyright &copy; 2022
+
+sass:
+  style: :compressed
