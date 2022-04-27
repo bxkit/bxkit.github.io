@@ -11,14 +11,17 @@ nav_order: 1
 
 ---
 
+Выводим информацию о переменной только под Админом:
+
 ```php
 <?if ($GLOBALS["USER"]->IsAdmin()) { echo '<pre>'; var_dump($arResult); echo '</pre>'; }?>
 ```
+<br>
+
+Выводим код только под Админом:
 
 ```php
 <?if ($GLOBALS["USER"]->IsAdmin()):?>
-    echo '<pre>';
-    var_dump($arResult);
-    echo '</pre>';
+    ...
 <?endif;?>
 ```
