@@ -13,9 +13,9 @@ has_toc: false
 
 ---
 
-- [Главный модуль](/settings/main)
-- [Email-маркетинг](/settings/sender)
-- [Push and Pull](/settings/pull)
-- [REST API](/settings/rest)
-- [Wiki](/settings/wiki)
-- [Управление структурой](/settings/fileman)
+- [Главный модуль](/settings/main/)
+- [Email-маркетинг](/settings/sender/)
+- [Push and Pull](/settings/pull/)
+- [REST API](/settings/rest/)
+- [Wiki](/settings/wiki/)
+- [Управление структурой](/settings/fileman/)
