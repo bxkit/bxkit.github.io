@@ -2,7 +2,7 @@
 layout: default
 title: Под Админом
 parent: Сниппеты
-nav_order: 1
+nav_order: 0
 ---
 
 # Выполнение кода под Админом
