@@ -11,4 +11,5 @@ has_toc: false
 
 ---
 
-- [Под Админом]()
+- [Под Админом](/snippets/IsAdmin/)
+- [Кеш без авторизации](/snippets/public-clear-cache/)
