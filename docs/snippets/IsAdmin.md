@@ -3,7 +3,6 @@ layout: default
 title: Под Админом
 parent: Сниппеты
 nav_order: 1
-permalink: /IsAdmin
 ---
 
 # Выполнение кода под Админом
