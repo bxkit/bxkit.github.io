@@ -21,6 +21,13 @@ search:
 
 # footer_content: Copyright &copy; 2022
 
+plugins:
+  - search:
+      lang: 
+        - en
+        - ru
+
+
 # Styles
 sass:
   style: :compressed
