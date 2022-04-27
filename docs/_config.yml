@@ -10,7 +10,8 @@ gh_edit_link: false
 
 # logo: "/assets/images/just-the-docs.svg"
 
-search_enabled: false
+search_enabled: true
+
 
 # footer_content: Copyright &copy; 2022
 
