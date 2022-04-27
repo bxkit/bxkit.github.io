@@ -1,8 +1,8 @@
 remote_theme: pmarsceill/just-the-docs
 
-color_scheme: light # "light" (default) and "dark"
+color_scheme: dark # "light" (default) and "dark"
 
-title: Bitrix
+title: Bitrix Kit
 
 lang: ru
 
@@ -14,7 +14,9 @@ search_enabled: false
 
 footer_content: Copyright &copy; 2022
 
+# Styles
 sass:
   style: :compressed
 
+# URL
 permalink: pretty
