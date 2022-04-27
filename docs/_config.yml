@@ -16,3 +16,5 @@ footer_content: Copyright &copy; 2022
 
 sass:
   style: :compressed
+
+permalink: pretty
