@@ -1,12 +1,12 @@
-window.matchMedia('(prefers-color-scheme: dark)')
-      .addEventListener('change', event => {
-  if (event.matches) {
-      jtd.setTheme('dark');
-  } else {
-      jtd.setTheme('bitrix');
-  }
+window.matchMedia('(prefers-color-scheme: bx-dark)')
+.addEventListener('change', event => {
+    if (event.matches) {
+        jtd.setTheme('bx-dark');
+    } else {
+        jtd.setTheme('bx-light');
+    }
 });
 
-if (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches) {
-    jtd.setTheme('dark');
+if (window.matchMedia && window.matchMedia('(prefers-color-scheme: bx-dark)').matches) {
+    jtd.setTheme('bx-dark');
 }
