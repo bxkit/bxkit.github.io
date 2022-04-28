@@ -8,8 +8,6 @@ $border-color: $grey-dk-200;
 
 // $search-background-color: $white !default;
 // $table-background-color: $white !default;
-// $code-background-color: $grey-lt-000 !default;
-// $feedback-color: darken($sidebar-color, 3%) !default;
 
 $body-text-color: $grey-lt-100;
 $body-heading-color: $grey-lt-000;
@@ -18,3 +16,6 @@ $nav-child-link-color: $grey-dk-000;
 $link-color: $blue-000;
 $btn-primary-color: $blue-200;
 $base-button-color: $grey-dk-250;
+
+$code-background-color: $grey-dk-250;
+$feedback-color: darken($sidebar-color, 3%);
