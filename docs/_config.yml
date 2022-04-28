@@ -1,10 +1,12 @@
+### Theme ###
 remote_theme: pmarsceill/just-the-docs
-
 color_scheme: light # "light" (default) and "dark"
 
-title: Bitrix Kit
-
+### Main ###
+# title: Bitrix Kit
 lang: ru
+# URL
+permalink: pretty
 
 gh_edit_link: false
 
@@ -37,6 +39,3 @@ plugins:
 # Styles
 sass:
   style: :compressed
-
-# URL
-permalink: pretty
