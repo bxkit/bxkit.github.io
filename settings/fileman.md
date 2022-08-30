@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Управление структурой
-parent: Основные настройки
+parent: Настройки
 nav_order: 37
 ---
 

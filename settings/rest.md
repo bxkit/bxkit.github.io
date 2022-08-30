@@ -1,7 +1,7 @@
 ---
 layout: default
 title: REST API
-parent: Основные настройки
+parent: Настройки
 nav_order: 4
 ---
 

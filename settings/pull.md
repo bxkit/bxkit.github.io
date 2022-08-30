@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Push and Pull
-parent: Основные настройки
+parent: Настройки
 nav_order: 3
 ---
 
