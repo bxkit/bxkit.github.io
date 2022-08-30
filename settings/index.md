@@ -2,7 +2,7 @@
 layout: default
 title: Основные настройки
 permalink: /settings/
-nav_order: 3
+nav_order: 0
 has_children: true
 has_toc: true
 ---

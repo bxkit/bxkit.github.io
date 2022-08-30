@@ -2,14 +2,9 @@
 layout: default
 title: Сниппеты
 permalink: /snippets/
-nav_order: 5
+nav_order: 0
 has_children: true
-has_toc: false
+has_toc: true
 ---
 
 # Сниппеты
-
----
-
-- [Под Админом](/snippets/IsAdmin/)
-- [Кеш без авторизации](/snippets/public-clear-cache/)
