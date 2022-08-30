@@ -1,5 +1,4 @@
 ---
----
 layout: default
 title: Основные настройки
 permalink: /settings/
