@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Основные настройки
+title: Настройки
 permalink: /settings/
 nav_order: 0
 has_children: true
