@@ -11,23 +11,23 @@ nav_order: 0
 
 Выводим информацию о переменной только под Админом:
 ```php
-<?if ($GLOBALS["USER"]->IsAdmin()) { echo '<pre>'; var_dump($arResult); echo '</pre>'; }?>
+<? if ($GLOBALS["USER"]->IsAdmin()) { echo '<pre>'; var_dump($arResult); echo '</pre>'; } ?>
 ```
 
 <br>
 
 Выводим код только под Админом:
 ```php
-<?if ($GLOBALS["USER"]->IsAdmin()):?>
+<? if ($GLOBALS["USER"]->IsAdmin()): ?>
     ...
-<?endif;?>
+<? endif; ?>
 ```
 
 <br>
 
 Админ D7:
 ```php
-use \Bitrix\Main\Engine\CurrentUser; # подключение
+use Bitrix\Main\Engine\CurrentUser; # подключение
 
 CurrentUser::get()->isAdmin();
 ```
@@ -36,7 +36,7 @@ CurrentUser::get()->isAdmin();
 
 Админ панель только для админа:
 ```php
-use \Bitrix\Main\Engine\CurrentUser; # подключение
+use Bitrix\Main\Engine\CurrentUser; # подключение
 <?= (CurrentUser::get()->isAdmin()) ? $APPLICATION->ShowPanel() : null ?>
 ```
 
