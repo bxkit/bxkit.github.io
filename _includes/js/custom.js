@@ -3,7 +3,7 @@ window.matchMedia('(prefers-color-scheme: dark)')
         if (event.matches) {
             jtd.setTheme('dark');
         } else {
-            jtd.setTheme('bitrix');
+            jtd.setTheme('light');
         }
     });
 
