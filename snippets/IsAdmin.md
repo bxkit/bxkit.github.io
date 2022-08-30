@@ -37,6 +37,7 @@ CurrentUser::get()->isAdmin();
 Админ панель только для админа:
 ```php
 use Bitrix\Main\Engine\CurrentUser; # подключение
+
 <?= (CurrentUser::get()->isAdmin()) ? $APPLICATION->ShowPanel() : null ?>
 ```
 
@@ -44,3 +45,5 @@ use Bitrix\Main\Engine\CurrentUser; # подключение
 ```php
 <?= ($GLOBALS["USER"]->IsAdmin()) ? $APPLICATION->ShowPanel() : null ?>
 ```
+
+<br>
