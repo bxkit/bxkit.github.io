@@ -27,9 +27,9 @@ nav_order: 0
 
 Админ D7:
 ```php
-use Bitrix\Main\Engine\CurrentUser; # подключение
+use Bitrix\Main\Engine\CurrentUser; // подключение
 
-CurrentUser::get()->isAdmin();
+CurrentUser::get()->isAdmin(); // вывод
 ```
 
 <br>
