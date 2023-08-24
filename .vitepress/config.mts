@@ -25,7 +25,8 @@ export default defineConfig({
       {
         text: 'Snippets',
         items: [
-          { text: 'Get start', link: '/snippets/' }
+          { text: 'Get start', link: '/snippets/' },
+          { text: 'Под Админом', link: '/snippets/is-admin' },
         ]
       },
       {
