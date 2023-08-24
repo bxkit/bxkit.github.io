@@ -1,11 +1,12 @@
 ---
 # https://vitepress.dev/reference/default-theme-home-page
 layout: home
+titleTemplate: false
 
 hero:
   name: "Bitrix Kit"
   #text: "Bitrix Kit"
-  tagline: My great project tagline
+  tagline: Components, Modules, Snippets & etc.
   actions:
     - theme: brand
       text: Markdown Examples
@@ -22,4 +23,3 @@ features:
   - title: Feature C
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
 ---
-
