@@ -1,4 +1,6 @@
 ---
-title: Snippets
-
+title: Сниппеты
+description: Сниппеты Битрикс
 ---
+
+# Сниппеты

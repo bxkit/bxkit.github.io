@@ -1,19 +1,18 @@
 ---
-# https://vitepress.dev/reference/default-theme-home-page
 layout: home
 titleTemplate: false
 
 hero:
   name: "Bitrix Kit"
-  #text: "Bitrix Kit"
+  #text: "Bitrix Framework"
   tagline: Components, Modules, Snippets & etc.
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
+      text: Snippets
+      link: /snippets/
     - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: BitrixVue
+      # link: /
 
 features:
   - title: Feature A
@@ -22,4 +21,6 @@ features:
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
   - title: Feature C
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+    
+# https://vitepress.dev/reference/default-theme-home-page
 ---

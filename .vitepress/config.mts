@@ -17,7 +17,8 @@ export default defineConfig({
 
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Examples', link: '/markdown-examples' },
+      { text: 'Components', link: null },
+      { text: 'Snippets', link: '/snippets/' },
       // { text: 'Česnakas Inc.', link: 'https://cesnakas.com' }
     ],
 
@@ -27,13 +28,6 @@ export default defineConfig({
         items: [
           { text: 'Get start', link: '/snippets/' },
           { text: 'Под Админом', link: '/snippets/is-admin' },
-        ]
-      },
-      {
-        text: 'Examples',
-        items: [
-          { text: 'Markdown Examples', link: '/markdown-examples' },
-          { text: 'Runtime API Examples', link: '/api-examples' }
         ]
       }
     ],
